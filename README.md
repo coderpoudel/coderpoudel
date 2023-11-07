@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderpoudel
+- 👋 Hi, I’m Anup Poudel aka @coderpoudel
 - 👀 I’m interested in pyton and scratch
 - 🌱 I’m currently learning c++ and C
 - 💞️ I’m looking to collaborate on financial projects and medical projects
