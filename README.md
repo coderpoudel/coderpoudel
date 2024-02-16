@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anup Poudel aka @coderpoudel
-- 👀 I’m interested in pyton and scratch
+- 👀 I’m interested in pyton and AI
 - 🌱 I’m currently learning c++ and C
 - 💞️ I’m looking to collaborate on financial projects and robotics projects
 - 📫 Reach me thorugh email: pdlanup2002@gmail.com
